@@ -1,0 +1,27 @@
+{
+  "name": "Discover",
+  "version": "1.0.0",
+  "description": "Anonimous questions project. Developed at NLW from Rocket Seat.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NanaCorrea/Discover.git"
+  },
+  "keywords": [],
+  "author": "Mariana Correa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NanaCorrea/Discover/issues"
+  },
+  "homepage": "https://github.com/NanaCorrea/Discover#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
